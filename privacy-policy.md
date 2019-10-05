@@ -17,6 +17,11 @@ It is our policy to respect your privacy regarding any information we may collec
 
 *   Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit. We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites.
 
+*   We are using the below third party API to fetch data and display it in the application, :
+     1. YouTube Data API - To display the videos published on Youtube related to Prabhu Premi Sangh.
+     2. Facebook API - 
+     3. Twitter API - 
+
 *   We do not collect information from children aged 13-18 since this skill is also available for children aged 13-18.
 
 *   We may update our Privacy Policy from time to time. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
