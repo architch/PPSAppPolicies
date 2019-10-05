@@ -20,11 +20,11 @@ We care about data privacy and security. Please review our Privacy Policy [priva
 
 #### [](#header-4)3. Third Party Contents
 
-*   The application uses YouTube API Services to fetch Youtube data and play Youtube videos related to Prabhu Premi Sangh. By using the application you are agreeing to be bound by the [YouTube Terms of Service](https://www.youtube.com/t/terms).
+The application uses YouTube API Services to fetch Youtube data and play Youtube videos related to Prabhu Premi Sangh. By using the application you are agreeing to be bound by the [YouTube Terms of Service](https://www.youtube.com/t/terms).
 
 #### [](#header-4)4. Modifications
 
-*   Prabhu Premi Sangh may revise these terms of service at any time. By using the application you are agreeing to be bound by the then current version of these terms of service.
+Prabhu Premi Sangh may revise these terms of service at any time. By using the application you are agreeing to be bound by the then current version of these terms of service.
 
 
 **Contacting Us:** 
