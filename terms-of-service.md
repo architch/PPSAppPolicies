@@ -5,39 +5,26 @@ layout: terms-of-service
 * * *
 #### [](#header-4)1. Terms
 
-*   By enabling the Bit Pal skill, you are agreeing to be bound by these terms of service, all applicable laws and regulations, and agree that you are responsible for compliance with any applicable local laws. If you do not agree with any of these terms, you are prohibited from using or accessing this skill.
+*   By downloading or using the application, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the application. You’re not allowed to copy, or modify the app, any part of the application. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages, or make derivative versions.
 
-#### [](#header-4)2. Use License
+Prabhu Premi Sangh is committed to ensuring that the app is as useful and efficient as possible. For that reason, we reserve the right to make changes to the app or to charge for its services, at any time and for any reason. We will never charge you for the app or its services without making it very clear to you exactly what you’re paying for.
 
-*   Permission is granted for any commercial purpose, or for any public display (commercial or non-commercial).
+You should be aware that there are certain things that Prabhu Premi Sangh will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi, or provided by your mobile network provider, but Prabhu Premi Sangh cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
 
-#### [](#header-4)3. Disclaimer
-
-*   The information presented on Bit Pal skill are provided on an 'as is' basis. Bit Pal makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
-
-*   Further, Bit Pal does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its skill or otherwise relating to such materials or on any sites linked to this site.
+If you’re using the app outside of an area with Wi-Fi, you should remember that your terms of the agreement with your mobile network provider will still apply. As a result, you may be charged by your mobile provider for the cost of data for the duration of the connection while accessing the app, or other third party charges. In using the app, you’re accepting responsibility for any such charges, including roaming data charges if you use the app outside of your home territory (i.e. region or country) without turning off data roaming. If you are not the bill payer for the device on which you’re using the app, please be aware that we assume that you have received permission from the bill payer for using the app.
 
 
-#### [](#header-4)4. Limitations
+#### [](#header-4)2. Privacy Policy
 
-*   In no event shall Bit Pal or its suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the information on Bit Pal skill, even if Bit Pal or a Bit Pal authorized representative has been notified orally or in writing of the possibility of such damage. Because some jurisdictions do not allow limitations on implied warranties, or limitations of liability for consequential or incidental damages, these limitations may not apply to you.
-
-#### [](#header-4)5. Accuracy of materials
-
-*   The information presented on Bit Pal skill could include technical, typographical or vocal error. Bit Pal does not warrant that any of the information are accurate, complete or current.
+*   We care about data privacy and security. Please review our Privacy Policy [privacy policy](https://architch.github.io/PPSAppPolicies/privacy-policy). By using the Application, you agree to be bound by our Privacy Policy, which is incorporated into these Terms of Use. 
 
 #### [](#header-4)6. Third Party Contents
 
-*   Bit Pal has not reviewed all of the contents from the third party APIs and is not responsible for the contents of any such linked site. The inclusion of any link does not imply endorsement by Bit Pal of the site. Use of any such linked website is at the user's own risk.
+*   The application uses third party APIs to fetch data and display it in the application. 
 
 #### [](#header-4)7. Modifications
 
-*   Bit Pal may revise these terms of service for its website at any time without notice. By using this website you are agreeing to be bound by the then current version of these terms of service.
-
-#### [](#header-4)8. Governing Law
-
-*   These terms and conditions are governed by and construed in accordance with the laws of Republic of India and you irrevocably submit to the exclusive jurisdiction of the courts in that State or location.
-
+*   Prabhu Premi Sangh may revise these terms of service at any time. By using the application you are agreeing to be bound by the then current version of these terms of service.
 
 
 Contacting Us:
