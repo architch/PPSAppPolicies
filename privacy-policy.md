@@ -18,7 +18,7 @@ It is our policy to respect your privacy regarding any information we may collec
 *   Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit. We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites.
 
 *   We are using various third party API to fetch data related to Prabhu Premi Sangh and display it in the application. Link to privacy policy of third party service providers used by the application :
-     1. **YouTube Data API [(Google Privacy Policy)](http://www.google.com/policies/privacy)** - To display the videos published on Youtube related to Prabhu Premi Sangh.
+     1. **YouTube Data API [(Privacy Policy)](http://www.google.com/policies/privacy)** - To display the videos published on Youtube related to Prabhu Premi Sangh.
      2. **Facebook API [(Privacy Policy)](https://www.facebook.com/policy.php)** - To display published Posts on our official facebook page :**AvdheshanandG**.
      3. **Twitter API [(Privacy Policy)](https://twitter.com/privacy)** - To display tweets from our official twitter handle:**@AvdheshanandG**
 
