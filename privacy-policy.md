@@ -5,9 +5,9 @@ layout: privacy-policy
 **Your privacy is important to us.**
 
 * * *
-Effective date: October 05, 2019
+**Effective date: October 05, 2019**
 
-Prabhu Premi Sangh ("us", "we", or "our") operates the Swami Avdheshanand Giri Ji Maharaj mobile application (the "Service").
+*Prabhu Premi Sangh* ("us", "we", or "our") operates the *Swami Avdheshanand Giri Ji Maharaj* mobile application (the "Service").
 
 It is our policy to respect your privacy regarding any information we may collect while operating our application. Accordingly, we have developed this privacy policy in order for you to understand what we collect, use, communicate, disclose and otherwise make use of personal information. We have outlined our privacy policy below.
 
@@ -15,12 +15,12 @@ It is our policy to respect your privacy regarding any information we may collec
 
 *   We do not sell, trade, or otherwise transfer to outside parties your Personally Identifiable Information.
 
-*   Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.
+*   Our Service may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit. We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites.
 
-*   We do not collect information from children aged 13-18 since this skill is application is also available for children aged 13-18.
+*   We do not collect information from children aged 13-18 since this skill is also available for children aged 13-18.
 
-*   We may update our Privacy Policy from time to time.You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+*   We may update our Privacy Policy from time to time. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-Contacting Us:
+**Contacting Us:** 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at architagarwal123@gmail.com.
       
