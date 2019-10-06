@@ -21,6 +21,8 @@ It is our policy to respect your privacy regarding any information we may collec
      1. **YouTube Data API [(Privacy Policy)](http://www.google.com/policies/privacy)** - To display the videos published on Youtube related to Prabhu Premi Sangh.
      2. **Facebook API [(Privacy Policy)](https://www.facebook.com/policy.php)** - To display published Posts on our official facebook page :**AvdheshanandG**.
      3. **Twitter API [(Privacy Policy)](https://twitter.com/privacy)** - To display tweets from our official twitter handle:**@AvdheshanandG**
+     
+*   We donot allow third party to serve content, including advertisements.     
 
 *   We do not collect information from children aged 13-18 since this application is also available for children aged 13-18.
 
