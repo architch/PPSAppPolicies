@@ -7,8 +7,6 @@ layout: privacy-policy
 * * *
 **Effective date: October 05, 2019**
 
-**Prabhu Premi Sangh** ("us", "we", or "our") operates the **Swami Avdheshanand Giri Ji Maharaj** mobile application (the "Service").
-
 It is our policy to respect your privacy regarding any information we may collect while operating our application. Accordingly, we have developed this privacy policy in order for you to understand what we collect, use, communicate, disclose and otherwise make use of personal information. We have outlined our privacy policy below.
 
 *   We do not collect any personal information information from the users in our application.
